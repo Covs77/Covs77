@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Covadonga Leguina
 
-## 🚀 Current Learning
-- I’m currently learning at **42 Málaga Campus**, where I’m developing a **programming project in C**
+## 🚀 Knowledge
+I’m a student at 42 Málaga, the most innovative campus in the world, where we develop projects in C
   
   ![libft](https://github.com/Covs77/Covs77/blob/main/fotos_Github/libftm.png)
   ![ft_printfe](https://github.com/Covs77/Covs77/blob/main/fotos_Github/ft_printfe.png)
@@ -11,19 +11,20 @@
   ![philosophers](https://github.com/Covs77/Covs77/blob/main/fotos_Github/philosopherse.png)
   ![minishell](https://github.com/Covs77/Covs77/blob/main/fotos_Github/minishell.png)
 
-- I'm also pursuing a Cybersecurity Specialization Course with knowledge in:
+I'm also pursuing a Cybersecurity Specialization Course with knowledge in:
 
 - 🔍 **Forensic Analysis**
 - 💻 **Ethical Hacking**
 - 🔒 **Network and System Hardening**
-- 📜 **Regulations**
 - ⚙️ **Secure Production Deployment (DevSecOps)**
+- 🔐 **Cybersecurity Incidents**
+- 📜 **Regulations**
 
 ## 👀 Interests
 - **Programming**, **Cibersecurity** and **Audiovisual Tech**
 
-## 📫 How to reach me:
-  ![[linkedin](https://github.com/Covs77/Covs77/blob/main/fotos_Github/linkedin.png)](https://www.linkedin.com/in/covadonga-leguina/)
-  ![[email](https://github.com/Covs77/Covs77/blob/main/fotos_Github/email.png)](cova_leguina@hotmail.com)
+### 📫 How to reach me:
+[<img src="https://github.com/Covs77/Covs77/blob/main/fotos_Github/linkedin.png" width="70" />](https://www.linkedin.com/in/covadonga-leguina/)
+[<img src="https://github.com/Covs77/Covs77/blob/main/fotos_Github/email.png" width="70" />](mailto:cova_leguina@hotmail.com)
 
 
