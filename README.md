@@ -22,7 +22,7 @@ I'm also pursuing a Cybersecurity Specialization Course with knowledge in:
 - 📜 **Regulations**
 
 ## 👀 Interests
-- **Programming**, **Cibersecurity** and **Audiovisual Tech**
+- **Programming** and **Cibersecurity** 
 
 ### 📫 How to reach me:
 [<img src="https://github.com/Covs77/Covs77/blob/main/fotos_Github/linkedin.png" width="70" />](https://www.linkedin.com/in/covadonga-leguina/)
