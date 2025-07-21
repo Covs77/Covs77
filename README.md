@@ -3,7 +3,8 @@
 ## 🚀 Knowledge
 I’m a student at 42 Málaga, the most innovative campus in the world, where we develop projects in C
   
-  ![libft](https://github.com/Covs77/Covs77/blob/main/fotos_Github/libftm.png)
+  
+  ![libft](https://github.com/Covs77/Libft/blob/main/libftm.png)
   ![ft_printfe](https://github.com/Covs77/Covs77/blob/main/fotos_Github/ft_printfe.png)
   ![get_next_line](https://github.com/Covs77/Covs77/blob/main/fotos_Github/get_next_linem.png)
   ![so_long](https://github.com/Covs77/Covs77/blob/main/fotos_Github/so_longm.png)
