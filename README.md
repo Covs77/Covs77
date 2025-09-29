@@ -11,7 +11,7 @@ I’m a student at 42 Málaga, the most innovative campus in the world, where we
   [![philosophers](https://github.com/Covs77/Covs77/blob/main/fotos_Github/philosopherse.png)](https://github.com/Covs77/Philo)
   [![minishell](https://github.com/Covs77/Covs77/blob/main/fotos_Github/minishell.png)](https://github.com/Covs77/MinishellFinal)
   [![cub3D](https://github.com/Covs77/Covs77/blob/main/fotos_Github/cub3de.png)](https://github.com/Covs77/Cub3D)
-
+[![python](https://github.com/Covs77/Covs77/blob/main/fotos_Github/python.png)](https://github.com/Covs77/Python)
 I'm also pursuing a Cybersecurity Specialization Course with knowledge in:
 
 - 🔍 **Forensic Analysis**
