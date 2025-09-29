@@ -12,7 +12,7 @@ I’m a student at 42 Málaga, the most innovative campus in the world, where we
   [![minishell](https://github.com/Covs77/Covs77/blob/main/fotos_Github/minishell.png)](https://github.com/Covs77/MinishellFinal)
   [![cub3D](https://github.com/Covs77/Covs77/blob/main/fotos_Github/cub3de.png)](https://github.com/Covs77/Cub3D)
   <a href="https://github.com/Covs77/Python">
-  <img src="https://github.com/Covs77/Covs77/blob/main/fotos_Github/python.png" alt="Python" width="150"/>
+  <img src="https://github.com/Covs77/Covs77/blob/main/fotos_Github/python.png" alt="Python" width="130"/>
 </a>
   
 I'm also pursuing a Cybersecurity Specialization Course with knowledge in:
