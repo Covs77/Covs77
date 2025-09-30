@@ -18,20 +18,27 @@ I’m a student at 42 Málaga, the most innovative campus in the world, where we
 
   
   
-I'm also pursuing a Cybersecurity Specialization Course with knowledge in:
+🛡️ I am a **Cybersecurity Specialist** with a solid background in protecting systems, networks, and applications against modern threats.  
+Currently, I am pursuing a **Professional Master’s Degree in Python Application Development**, where I combine my expertise in security with strong programming skills to build secure and efficient solutions.
 
-- 🔍 **Forensic Analysis**
-- 💻 **Ethical Hacking**
-- 🔒 **Network and System Hardening**
-- ⚙️ **Secure Production Deployment (DevSecOps)**
-- 🔐 **Cybersecurity Incidents**
-- 📜 **Regulations**
+## 🚀 Core Skills
+- 🔍 **Forensic Analysis & Incident Response** – Detecting, analyzing, and mitigating security incidents.  
+- 💻 **Ethical Hacking & Penetration Testing** – Identifying vulnerabilities and strengthening defenses.  
+- 🔒 **Network & System Hardening** – Implementing best practices to secure infrastructures.  
+- 🐍 **Python Development** – Building applications with a focus on performance, scalability, and security.  
+- ⚙️ **DevSecOps** – Integrating security practices into CI/CD pipelines for safe deployments.  
+- ☁️ **Cloud Security** – Applying secure design principles to cloud-based environments.  
+- 📜 **Compliance & Regulations** – Familiar with GDPR, ISO 27001, and industry security standards.  
 
 ## 👀 Interests
-- **Programming** and **Cibersecurity** 
+- **Software Development** with Python, C & C++
+- **Offensive & Defensive Security**  
+- **Automation & Security Tools Development**  
+- **Exploring new technologies** to merge cybersecurity and programming
+
 
 ### 📫 How to reach me:
 [<img src="https://github.com/Covs77/Covs77/blob/main/fotos_Github/linkedin.png" width="70" />](https://www.linkedin.com/in/covadonga-leguina/)
-[<img src="https://github.com/Covs77/Covs77/blob/main/fotos_Github/email.png" width="70" />](mailto:cova_leguina@hotmail.com)
+[<img src="https://github.com/Covs77/Covs77/blob/main/fotos_Github/email.png" width="70" />](mailto:cova.leguina@gmail.com)
 
 
