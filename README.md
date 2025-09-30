@@ -1,7 +1,13 @@
 # 👋 Hi, I’m Covadonga Leguina
 
 ## 🚀 Knowledge
-I’m a student at 42 Málaga, the most innovative campus in the world, where we develop projects in C
+Currently, I am pursuing a **Professional Master’s Degree in Python Application Development**, where I combine my expertise in security with strong programming skills to build secure and efficient solutions.
+
+  <a href="https://github.com/Covs77/Python">
+    <img src="https://github.com/Covs77/Covs77/blob/main/fotos_Github/pythone.png" width="140" height="140" />
+  </a>
+
+I’m a student at 42 Málaga, the most innovative campus in the world, where we develop projects in C & C++
   
   [![libft](https://github.com/Covs77/Libft/blob/main/libftm.png)](https://github.com/Covs77/Libft/blob/main)
   [![ft_printfe](https://github.com/Covs77/Covs77/blob/main/fotos_Github/ft_printfe.png)](https://github.com/Covs77/Ft_Printf)
@@ -12,23 +18,20 @@ I’m a student at 42 Málaga, the most innovative campus in the world, where we
   [![minishell](https://github.com/Covs77/Covs77/blob/main/fotos_Github/minishell.png)](https://github.com/Covs77/MinishellFinal)
   [![cub3D](https://github.com/Covs77/Covs77/blob/main/fotos_Github/cub3de.png)](https://github.com/Covs77/Cub3D)
   [![cpp](https://github.com/Covs77/Covs77/blob/main/fotos_Github/cppe.png)](https://github.com/Covs77/CPP)
-  <a href="https://github.com/Covs77/Python">
-    <img src="https://github.com/Covs77/Covs77/blob/main/fotos_Github/pythone.png" width="140" height="140" />
-  </a>
 
   
   
 🛡️ I am a **Cybersecurity Specialist** with a solid background in protecting systems, networks, and applications against modern threats.  
-Currently, I am pursuing a **Professional Master’s Degree in Python Application Development**, where I combine my expertise in security with strong programming skills to build secure and efficient solutions.
+
 
 ## 🚀 Core Skills
+- 🐍 **Python Development** – Building applications with a focus on performance, scalability, and security.  
+- 🔒 **Network & System Hardening** – Implementing best practices to secure infrastructures. 
+- 📜 **Compliance & Regulations** – Familiar with GDPR, ISO 27001, and industry security standards.  
 - 🔍 **Forensic Analysis & Incident Response** – Detecting, analyzing, and mitigating security incidents.  
 - 💻 **Ethical Hacking & Penetration Testing** – Identifying vulnerabilities and strengthening defenses.  
-- 🔒 **Network & System Hardening** – Implementing best practices to secure infrastructures.  
-- 🐍 **Python Development** – Building applications with a focus on performance, scalability, and security.  
 - ⚙️ **DevSecOps** – Integrating security practices into CI/CD pipelines for safe deployments.  
-- ☁️ **Cloud Security** – Applying secure design principles to cloud-based environments.  
-- 📜 **Compliance & Regulations** – Familiar with GDPR, ISO 27001, and industry security standards.  
+
 
 ## 👀 Interests
 - **Software Development** with Python, C & C++
