@@ -12,7 +12,7 @@ I’m a student at 42 Málaga, the most innovative campus in the world, where we
   [![minishell](https://github.com/Covs77/Covs77/blob/main/fotos_Github/minishell.png)](https://github.com/Covs77/MinishellFinal)
   [![cub3D](https://github.com/Covs77/Covs77/blob/main/fotos_Github/cub3de.png)](https://github.com/Covs77/Cub3D)
   [![cpp](https://github.com/Covs77/Covs77/blob/main/fotos_Github/cppe.png)](https://github.com/Covs77/CPP)
-  [![python](https://github.com/Covs77/Covs77/blob/main/fotos_Github/python.png)](https://github.com/Covs77/Python) 
+  [![python](https://github.com/Covs77/Covs77/blob/main/fotos_Github/pythone.png)](https://github.com/Covs77/Python) 
   
 I'm also pursuing a Cybersecurity Specialization Course with knowledge in:
 
